@@ -1,0 +1,19 @@
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\bin\Debug\net5.0\Countries List.exe
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\bin\Debug\net5.0\Countries List.deps.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\bin\Debug\net5.0\Countries List.runtimeconfig.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\bin\Debug\net5.0\Countries List.runtimeconfig.dev.json
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\bin\Debug\net5.0\Countries List.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\bin\Debug\net5.0\ref\Countries List.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\bin\Debug\net5.0\Countries List.pdb
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\Countries List.csproj.AssemblyReference.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\Countries List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\Countries List.AssemblyInfoInputs.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\Countries List.AssemblyInfo.cs
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\Countries List.csproj.CoreCompileInputs.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\Countries List.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\ref\Countries List.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\Countries List.pdb
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\Countries List.genruntimeconfig.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\bin\Debug\net5.0\Json.Net.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\C#\Countries List\obj\Debug\net5.0\Countries List.csproj.CopyComplete
